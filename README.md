@@ -13,13 +13,15 @@ Este projeto analisa um conjunto de dados de vendas de e-commerce para identific
 - Matplotlib, Seaborn, Plotly
 - Scikit-learn
 
+
 ## Estrutura do Projeto
-1. **Introdução**
-2. **Configuração do Ambiente**
-3. **Carregamento e Exploração Inicial dos Dados**
-4. **Limpeza e Preparação dos Dados**
-5. **Análise Exploratória dos Dados (EDA)**
-6. **Interpretação de Resultados**
-7. **Visualizações mais complexas**
-4. **Estatística e Modelagem**
-5. **Conclusão**
+- [1. Introdução](#introdução)
+- [2. Configuração do Ambiente](#configuração-do-ambiente)
+- [3. Carregamento e Exploração Inicial dos Dados](#carregamento-e-exploração-inicial-dos-dados)
+- [4. Limpeza e Preparação dos Dados](#limpeza-e-preparação-dos-dados)
+- [5. Análise Exploratória dos Dados (EDA)](#análise-exploratória-dos-dados-eda)
+- [6. Interpretação de Resultados](#interpretação-de-resultados)
+- [7. Visualizações Mais Complexas](#visualizações-mais-complexas)
+- [8. Estatísticas e Modelagem](#estatísticas-e-modelagem)
+- [9. Conclusão](#conclusão)
+   
