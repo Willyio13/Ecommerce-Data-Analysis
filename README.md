@@ -23,9 +23,3 @@ Este projeto analisa um conjunto de dados de vendas de e-commerce para identific
 7. **Visualizações mais complexas**
 4. **Estatística e Modelagem**
 5. **Conclusão**
-
-## Como Executar o Projeto
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Willyio13/Ecommerce-Data-Analysis.git
-
